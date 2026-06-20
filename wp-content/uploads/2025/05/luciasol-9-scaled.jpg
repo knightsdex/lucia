@@ -29,13 +29,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	font-family: 'pricedown';
 	font-style: normal;
 	font-weight: 400;
-	src: url('https://luciaongta.xyz/wp-content/uploads/2025/01/pricedown-bl.ttf') format('truetype');
+	src: url('./wp-content/uploads/2025/01/pricedown-bl.ttf') format('truetype');
 }
 /*# sourceURL=cf-frontend-style-inline-css */
 </style>
-<link rel='stylesheet' id='hfe-widgets-style-css' href='https://luciaongta.xyz/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.6' type='text/css' media='all' />
-<link rel='stylesheet' id='embedpress-css-css' href='https://luciaongta.xyz/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=1771510534' type='text/css' media='all' />
-<link rel='stylesheet' id='embedpress-blocks-style-css' href='https://luciaongta.xyz/wp-content/plugins/embedpress/assets/css/blocks.build.css?ver=1771510534' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='./wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-css-css' href='./wp-content/plugins/embedpress/assets/css/embedpress.css?ver=1771510534' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-blocks-style-css' href='./wp-content/plugins/embedpress/assets/css/blocks.build.css?ver=1771510534' type='text/css' media='all' />
 <style id='wp-emoji-styles-inline-css' type='text/css'>
 
 	img.wp-smiley, img.emoji {
@@ -69,44 +69,44 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 /*# sourceURL=global-styles-inline-css */
 </style>
-<link rel='stylesheet' id='tpcore-style-css' href='https://luciaongta.xyz/wp-content/plugins/liko-core/assets/css/tp-core.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='sticky-buttons-css' href='https://luciaongta.xyz/wp-content/plugins/sticky-buttons/public/assets/css/style.min.css?ver=4.3.5' type='text/css' media='all' />
-<link rel='stylesheet' id='sticky-buttons-fontawesome-css' href='https://luciaongta.xyz/wp-content/plugins/sticky-buttons/vendors/fontawesome/css/all.css?ver=7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='cmplz-general-css' href='https://luciaongta.xyz/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1741724570' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-style-css' href='https://luciaongta.xyz/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.6' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://luciaongta.xyz/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1775313305' type='text/css' media='all' />
+<link rel='stylesheet' id='tpcore-style-css' href='./wp-content/plugins/liko-core/assets/css/tp-core.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sticky-buttons-css' href='./wp-content/plugins/sticky-buttons/public/assets/css/style.min.css?ver=4.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sticky-buttons-fontawesome-css' href='./wp-content/plugins/sticky-buttons/vendors/fontawesome/css/all.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='./wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1741724570' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='./wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='./wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1775313305' type='text/css' media='all' />
 <style id='elementor-frontend-inline-css' type='text/css'>
 .e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }
 /*# sourceURL=elementor-frontend-inline-css */
 </style>
-<link rel='stylesheet' id='elementor-post-11-css' href='https://luciaongta.xyz/wp-content/uploads/elementor/css/post-11.css?ver=1775313305' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-breadcrumb-typo-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-breadcrumb-bg-settings-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-breadcrumb-spacing-settings-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-footer-bg-settings-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-11-css' href='./wp-content/uploads/elementor/css/post-11.css?ver=1775313305' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-breadcrumb-typo-css' href='./wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-breadcrumb-bg-settings-css' href='./wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-breadcrumb-spacing-settings-css' href='./wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-footer-bg-settings-css' href='./wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
 <link rel='stylesheet' id='liko-fonts-css' href='https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;200;300;400;500;600;700;800;900&#038;family=Marcellus&#038;family=Syne:wght@400;500;600;700;800&#038;family=Aladin&#038;display=swap&#038;ver=1775446659' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/bootstrap.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/animate.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-bundle-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/swiper-bundle.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='slick-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/slick.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/magnific-popup.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-pro-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/font-awesome-pro.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='spacing-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/spacing.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='custom-animation-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/custom-animation.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-core-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-core.css?ver=1775446659' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-unit-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-unit.css?ver=1775446659' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-custom-css' href='https://luciaongta.xyz/wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='liko-style-css' href='https://luciaongta.xyz/wp-content/themes/liko/style.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-icons-list-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-social-icons-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' type='text/css' media='all' />
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/plugins/wp-letsencrypt-ssl/admin/js/jsredirect.js?ver=7.8.5.15" id="wpen-jsredirect-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.0.1" id="font-awesome-4-shim-js"></script>
+<link rel='stylesheet' id='bootstrap-css' href='./wp-content/themes/liko/assets/css/bootstrap.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='./wp-content/themes/liko/assets/css/animate.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-bundle-css' href='./wp-content/themes/liko/assets/css/swiper-bundle.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='./wp-content/themes/liko/assets/css/slick.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='./wp-content/themes/liko/assets/css/magnific-popup.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-pro-css' href='./wp-content/themes/liko/assets/css/font-awesome-pro.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='spacing-css' href='./wp-content/themes/liko/assets/css/spacing.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-animation-css' href='./wp-content/themes/liko/assets/css/custom-animation.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-core-css' href='./wp-content/themes/liko/assets/css/liko-core.css?ver=1775446659' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-unit-css' href='./wp-content/themes/liko/assets/css/liko-unit.css?ver=1775446659' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-custom-css' href='./wp-content/themes/liko/assets/css/liko-custom.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='liko-style-css' href='./wp-content/themes/liko/style.css?ver=53912c758e28768449471de68d3373cb' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='./wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='./wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' type='text/css' media='all' />
+<script type="text/javascript" src="./wp-content/plugins/wp-letsencrypt-ssl/admin/js/jsredirect.js?ver=7.8.5.15" id="wpen-jsredirect-js"></script>
+<script type="text/javascript" src="./wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.0.1" id="font-awesome-4-shim-js"></script>
 <script type="text/javascript" src="https://luciaongta.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://luciaongta.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="jquery-js-after">
@@ -136,10 +136,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			</style>
-			<link rel="icon" href="https://luciaongta.xyz/wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://luciaongta.xyz/wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://luciaongta.xyz/wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-180x180.png" />
-<meta name="msapplication-TileImage" content="https://luciaongta.xyz/wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-270x270.png" />
+			<link rel="icon" href="./wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="./wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="./wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-180x180.png" />
+<meta name="msapplication-TileImage" content="./wp-content/uploads/2025/01/cropped-IMG_20250110_044621_708-1-270x270.png" />
 <style id="kirki-inline-styles">@media (max-width: 767px){.liko-offcanvas-logo img{width:85px;}.liko-breadcrumb-padding{padding-top:40px;padding-bottom:40px;}.liko-blog-single-padding{padding-top:40px;padding-bottom:40px;}}@media (min-width: 768px) and (max-width: 1023px){.liko-offcanvas-logo img{width:85px;}.liko-breadcrumb-padding{padding-top:70px;padding-bottom:70px;}.liko-blog-single-padding{padding-top:70px;padding-bottom:70px;}}@media (min-width: 1024px){.liko-offcanvas-logo img{width:85px;}.liko-breadcrumb-padding{padding-top:100px;padding-bottom:100px;}.liko-blog-single-padding{padding-top:100px;padding-bottom:100px;}}.liko-breadcrumb-padding{background:#f7f7f7;background-color:#f7f7f7;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.liko-footer-settings{background:#1E1E1E;background-color:#1E1E1E;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}</style></head>
 
 <body data-rsssl=1 class="error404 wp-custom-logo wp-embed-responsive wp-theme-liko ehf-template-liko ehf-stylesheet-liko hfeed no-sidebar elementor-default elementor-kit-11" id="body">
@@ -279,7 +279,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
                                     <h3 class="tp-error-title">Oops!</h3>
                   
-                                       <img src="https://luciaongta.xyz/wp-content/themes/liko/assets/img/error/error.png" alt="Error 404">
+                                       <img src="./wp-content/themes/liko/assets/img/error/error.png" alt="Error 404">
                   
                   <div class="tp-error-content">
 
@@ -346,38 +346,38 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
-			<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/bootstrap-bundle.js?ver=53912c758e28768449471de68d3373cb" id="bootstrap-bundle-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/gsap.js?ver=53912c758e28768449471de68d3373cb" id="gsap-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/gsap-scroll-to-plugin.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-to-plugin-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/gsap-scroll-smoother.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-smoother-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/gsap-scroll-trigger.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-trigger-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/gsap-split-text.js?ver=53912c758e28768449471de68d3373cb" id="gsap-split-text-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/chroma.js?ver=53912c758e28768449471de68d3373cb" id="chroma-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/three.js?ver=53912c758e28768449471de68d3373cb" id="liko-three-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/tween-max.js?ver=53912c758e28768449471de68d3373cb" id="tween-max-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/scroll-magic.js?ver=53912c758e28768449471de68d3373cb" id="scroll-magic-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/range-slider.js?ver=53912c758e28768449471de68d3373cb" id="range-slider-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/swiper-bundle.js?ver=53912c758e28768449471de68d3373cb" id="swiper-bundle-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/slick.js?ver=53912c758e28768449471de68d3373cb" id="slick-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/magnific-popup.js?ver=53912c758e28768449471de68d3373cb" id="magnific-popup-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/nice-select.js?ver=53912c758e28768449471de68d3373cb" id="nice-select-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/purecounter.js?ver=53912c758e28768449471de68d3373cb" id="purecounter-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/beforeafter.js?ver=53912c758e28768449471de68d3373cb" id="beforeafter-js-js"></script>
+			<script type="text/javascript" src="./wp-content/themes/liko/assets/js/bootstrap-bundle.js?ver=53912c758e28768449471de68d3373cb" id="bootstrap-bundle-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/gsap.js?ver=53912c758e28768449471de68d3373cb" id="gsap-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/gsap-scroll-to-plugin.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-to-plugin-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/gsap-scroll-smoother.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-smoother-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/gsap-scroll-trigger.js?ver=53912c758e28768449471de68d3373cb" id="gsap-scroll-trigger-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/gsap-split-text.js?ver=53912c758e28768449471de68d3373cb" id="gsap-split-text-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/chroma.js?ver=53912c758e28768449471de68d3373cb" id="chroma-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/three.js?ver=53912c758e28768449471de68d3373cb" id="liko-three-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/tween-max.js?ver=53912c758e28768449471de68d3373cb" id="tween-max-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/scroll-magic.js?ver=53912c758e28768449471de68d3373cb" id="scroll-magic-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/range-slider.js?ver=53912c758e28768449471de68d3373cb" id="range-slider-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/swiper-bundle.js?ver=53912c758e28768449471de68d3373cb" id="swiper-bundle-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/slick.js?ver=53912c758e28768449471de68d3373cb" id="slick-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/magnific-popup.js?ver=53912c758e28768449471de68d3373cb" id="magnific-popup-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/nice-select.js?ver=53912c758e28768449471de68d3373cb" id="nice-select-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/purecounter.js?ver=53912c758e28768449471de68d3373cb" id="purecounter-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/beforeafter.js?ver=53912c758e28768449471de68d3373cb" id="beforeafter-js-js"></script>
 <script type="text/javascript" src="https://luciaongta.xyz/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/isotope-pkgd.js?ver=53912c758e28768449471de68d3373cb" id="isotope-pkgd-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/tp-cursor.js?ver=53912c758e28768449471de68d3373cb" id="liko-cursor-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/waypoints.js?ver=53912c758e28768449471de68d3373cb" id="waypoints-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/countdown.js?ver=53912c758e28768449471de68d3373cb" id="countdown-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/wow.js?ver=53912c758e28768449471de68d3373cb" id="wow-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/animation-app.js?ver=53912c758e28768449471de68d3373cb" id="animation-app-js-js"></script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/themes/liko/assets/js/main.js?ver=1775446659" id="liko-main-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/isotope-pkgd.js?ver=53912c758e28768449471de68d3373cb" id="isotope-pkgd-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/tp-cursor.js?ver=53912c758e28768449471de68d3373cb" id="liko-cursor-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/waypoints.js?ver=53912c758e28768449471de68d3373cb" id="waypoints-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/countdown.js?ver=53912c758e28768449471de68d3373cb" id="countdown-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/wow.js?ver=53912c758e28768449471de68d3373cb" id="wow-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/animation-app.js?ver=53912c758e28768449471de68d3373cb" id="animation-app-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/liko/assets/js/main.js?ver=1775446659" id="liko-main-js"></script>
 <script type="text/javascript" id="sticky-buttons-js-extra">
 /* <![CDATA[ */
 var sb_obj = {"url":"https://luciaongta.xyz/wp-admin/admin-ajax.php","nonce":"7bc9356170"};
 //# sourceURL=sticky-buttons-js-extra
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://luciaongta.xyz/wp-content/plugins/sticky-buttons/public/assets/js/script.min.js?ver=4.3.5" id="sticky-buttons-js"></script>
+<script type="text/javascript" src="./wp-content/plugins/sticky-buttons/public/assets/js/script.min.js?ver=4.3.5" id="sticky-buttons-js"></script>
 			<script data-category="functional">
 											</script>
 			<script id="wp-emoji-settings" type="application/json">
